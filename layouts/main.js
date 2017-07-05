@@ -4,8 +4,10 @@ import Link from 'next/prefetch'
 export default ({ children }) => (
   <div className="main">
     <div className="logo">
-      <Link href="/"><a>andrewhoskins.ca</a></Link>{" "}
-      <a className="icon" target="_blank" href="mailto:andrew@andrewhoskins.ca">✉</a>
+      <nav>
+        <Link href="/"><a>hoskinsa.ca</a></Link>
+        <a className="icon" target="_blank" href="mailto:andrew@andrewhoskins.ca">Mail</a>
+      </nav>
     </div>
 
     { children }
@@ -23,11 +25,9 @@ export default ({ children }) => (
         padding-bottom: 50px;
       }
 
-      .icon {
-        font-size: 22px;
-      }
-
       a {
+        display: inline-block;
+        margin: 0 15px;
         text-decoration: none;
       }
 

@@ -17,7 +17,7 @@ export default () => (
         <br />
         Living in San Francisco is amazing for seeing new <a className="no-margin" target="_blank" href="https://www.instagram.com/andrew.hoskins">places</a>. 
         <br />
-        I'm a big fan of listening to podcasts, and reading my kindle and blogs - some <a className="no-margin" target="_blank" href="/favourites">favourites</a>. 
+        I'm a big fan of listening to podcasts, and reading my kindle and blogs - some <a className="no-margin" target="_blank" href="/favorites">favorites</a>. 
         <br />
         Many of the things I make can be found on <a className="no-margin" target="_blank" href="https://www.github.com/ahoskins">GitHub</a>.
         <br />

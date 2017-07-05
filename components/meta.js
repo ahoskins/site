@@ -26,12 +26,23 @@ export default () => (
       a {
         color: #2260d9;
         -webkit-tap-highlight-color: rgba(0,0,0,0);
+        diplay: inline-block;
       }
 
       a:hover {
-        color: #fff;
-        background: #2260d9;
         text-decoration: none;
+      }
+
+      a:after {
+        display:block;
+        content: '';
+        border-bottom: solid 2px #2260d9;
+        transform: scaleX(0);
+        transition: transform 250ms ease-in-out;
+      }
+
+      a:hover:after {
+        transform: scaleX(1);
       }
 
       /* loading progress bar styles */
