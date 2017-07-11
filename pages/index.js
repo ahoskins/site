@@ -22,9 +22,9 @@ export default () => (
           </div>
           <div className="section">
             <b>Other stuff:</b> Many of the things I make can be found on <a className="no-margin" target="_blank" href="https://www.github.com/ahoskins">GitHub.</a> I
-              like listening to podcasts on a variety of subjects and reading my kindle - some <Link href="/favorites"><a className="no-margin">favorites.</a></Link> When
+              like listening to podcasts on a variety of subjects, and reading my kindle (some <Link href="/favorites"><a className="no-margin">favorites).</a></Link> When
               offline, I like to get out and see new <a className="no-margin" target="_blank" href="https://www.instagram.com/andrew.hoskins">places.</a> I'm               
-              a pretty uncompromising optimist, this is an exciting world, and I'm very grateful to live in this time and place!
+              a pretty uncompromising optimist, and fascinated with many aspects of this world.
           </div>
         </div>
         <br />
