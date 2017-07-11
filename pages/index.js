@@ -11,21 +11,21 @@ export default () => (
     <div className="home">
       <div className="main">
         <h2>Andrew Hoskins</h2>
-        <br />
         <div>
-        I like <b>exploring</b>, <b>learning</b>, and <b>making things</b>. 
-        <br />
-        Living in San Francisco is amazing for seeing new <a className="no-margin" target="_blank" href="https://www.instagram.com/andrew.hoskins">places</a>. 
-        <br />
-        I'm a big fan of listening to podcasts, and reading my kindle and blogs - some <Link href="/favorites"><a className="no-margin">favorites</a></Link>. 
-        <br />
-        Many of the things I make can be found on <a className="no-margin" target="_blank" href="https://www.github.com/ahoskins">GitHub</a>.
-        <br />
-        <br />
-        I’m an optimist, and very grateful to live in this time and place.
-        <br />
-        <br />
-        I work as a software engineer at <a className="no-margin" target="_blank" href="https://mesosphere.com">Mesosphere</a>.
+          <div className="section">
+            <b>Summary:</b> I'm a software engineer. I like exploring, learning, and making things. I live in San Francisco.
+          </div>
+          <div className="section">
+            <b>Work stuff:</b> I work at a place called <a className="no-margin" target="_blank" href="https://mesosphere.com">Mesosphere</a>. 
+            We're <i>not</i> located in the sky, <i>but</i> we do build software that might help others get there. At Mesosphere, I 
+            help build the UI for the datacenter operating system (DC/OS).
+          </div>
+          <div className="section">
+            <b>Other stuff:</b> Many of the things I make can be found on <a className="no-margin" target="_blank" href="https://www.github.com/ahoskins">GitHub.</a> I
+              like listening to podcasts on a variety of subjects and reading my kindle - some <Link href="/favorites"><a className="no-margin">favorites.</a></Link> When
+              offline, I like to get out and see new <a className="no-margin" target="_blank" href="https://www.instagram.com/andrew.hoskins">places.</a> I'm               
+              a pretty uncompromising optimist, this is an exciting world, and I'm very grateful to live in this time and place!
+          </div>
         </div>
         <br />
         <nav>
@@ -50,17 +50,32 @@ export default () => (
       }
 
       .main {
-        text-align: center;
-        margin: 0 50px;
+        width: 40%;
+      }
+
+      @media (max-width: 950px) {
+        .main {
+          width: 70%;
+        }
+      }
+
+      @media (max-width: 600px) {
+        .main {
+          width: 100%;
+          margin: 0 10px;
+        }
       }
 
       h2 {
         font-size: 20x;
         font-weight: normal;
+        text-align: center;
+        margin-bottom: 30px;
       }
 
       nav {
         margin-top: 20px;
+        text-align: center;
       }
 
       a {
@@ -71,6 +86,12 @@ export default () => (
 
       .no-margin {
         margin: 0px !important;
+      }
+
+      .section {
+        margin-bottom: 10px;
+        border-bottom: 1px solid #d3d3d3;
+        padding-bottom: 10px;
       }
     `}</style>
   </Page>

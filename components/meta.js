@@ -51,7 +51,7 @@ export default () => (
       }
 
       #nprogress .bar {
-        background: #d92222;
+        background: #2260d9;
         position: fixed;
         z-index: 1031;
         top: 0;
@@ -66,7 +66,7 @@ export default () => (
         right: 0px;
         width: 100px;
         height: 100%;
-        box-shadow: 0 0 10px #d92222, 0 0 5px #d92222;
+        box-shadow: 0 0 10px #2260d9, 0 0 5px #d92222;
         opacity: 1.0;
         transform: rotate(3deg) translate(0px, -4px);
       }
