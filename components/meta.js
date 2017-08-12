@@ -26,7 +26,7 @@ export default () => (
       a {
         color: #2260d9;
         -webkit-tap-highlight-color: rgba(0,0,0,0);
-        diplay: inline-block;
+        display: inline-block;
       }
 
       a:hover {
@@ -34,7 +34,7 @@ export default () => (
       }
 
       a:after {
-        display:block;
+        display: block;
         content: '';
         border-bottom: solid 2px #2260d9;
         transform: scaleX(0);

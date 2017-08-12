@@ -10,13 +10,12 @@ export default ({ children }) => (
       }
 
       a {
-        color: #FF001F;
+        color: grey;
         text-decoration: none;
       }
 
-      a:hover {
-        background-color: #FF001F;
-        color: #fff;
+      a:after {
+        display: none;
       }
     `}</style>
   </h1>
