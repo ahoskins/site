@@ -10,7 +10,7 @@ export default ({ children }) => (
       }
 
       a {
-        color: grey;
+        color: black;
         text-decoration: none;
       }
 
