@@ -5,7 +5,6 @@ import Meta from '../../components/post/meta'
 import P from '../../components/post/paragraph'
 import Code from '../../components/post/code'
 import { H2, H3 } from '../../components/post/heading'
-import { Ref, FootNotes, Note } from '../../components/post/footnotes'
 
 export default () => (
   <Post>
@@ -64,7 +63,7 @@ export default () => (
 
     <P>
     But from an accessibility perspective, there’s a more discrete difference. A <Code>&lt;a&gt;</Code> should always contain a valid “href”
-    pointing somewhere, whereas a <Code>&lt;div&gt;</Code> is used for triggering an action on the page and cannot container an “href”. With 
+    pointing somewhere, whereas a <Code>&lt;button&gt;</Code> is used for triggering an action on the page and cannot container an “href”. With 
     this in mind, there a few ways to design components for buttons and links.
     </P>
 
@@ -126,10 +125,3 @@ export default () => (
     `}</style>
 </Post>
 )
-
-const links = [
-  'http://elm-lang.org/blog/compiler-errors-for-humans',
-  'https://i.imgur.com/OANtEbP.jpg',
-  'http://fb.me/react-warning-keys',
-  'http://php.net/manual/en/keyword.paamayim-nekudotayim.php#69537'
-]
