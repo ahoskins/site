@@ -26,35 +26,40 @@ export default () => (
     </Figure>
 
     <P>
-    At the most basic level why would someone signup for ClassPass? I think it's to get in shape. ClassPass would be categorized as a
-    fitness tool/app.
+    At the most fundamental level, what service is ClassPass? I think it's a fitness tool. ClassPass would be categorized as a
+    fitness app, not a social app.
     </P>
 
     <P>
-    How does ClassPass convince you it's worthwile to signup? It shows people are having fun. Of course - lots of marketing does this (watch a beer commerical). It's
-    playing with our primal instincts of associating the happy people to the product.
+    But how does ClassPass convince you it's worthwile to signup? It shows people are having fun. Lots of marketing does this (watch a beer commerical). It's
+    playing with our primal instincts of associating the happy people to the product. So the base level motivation (getting in shape) is very different from how it's advertised (as a social activity).
     </P>
 
     <P>
-    And of course ClassPass has network affects, they can get the flywheel going, building clusters of users especially in major urban centers.
+    This makes sense to center it around the social. ClassPass has network affects, they can get the flywheel going, building clusters of users especially in major urban centers.
     </P>
 
     <P>
-    Why is there a need for ClassPass? I'd say it's catering to those normally reluncant to do fitness, but can be pushed into the
-    gym with encouragement of social pressure and signaling. Very few people have the dedicated enough to wake up at 6am, run 10 miles by
-    themselves, or go to a quiet gym and do deadlifts. ClassPass is capitalizing on the mediocrity of people. It's not trying to build a product
-    for those with great fitness patterns, and who have no issue at discipline in being active.
+    So who is the market for ClassPass? Is it not enough to want to be fit? Why layer on the social aspect? I'd say it's catering to those normally reluncant to do fitness, but can be pushed into the
+    gym with encouragement of social pressure and signaling oppertunity. Very few people have the dedication to wake up at 6am, run 10 miles by
+    themselves, or go to a quiet gym and do deadlifts and squats. So the pessimistic answer is ClassPass is capitalizing on the mediocrity of people.
+    But the optimistic answer is ClassPass is expanding the market for people doing physical activity.  It's not trying to build a product
+    for those with existing great fitness habbits.
     </P>
 
     <P>
-    By the way, I think comparisons can be made to the rise of cross-fit. Is it more about fitness, or more about a new kind of cult / signaling mechanism?
+    ClassPass can be compared to the rise of cross-fit. Is it more about fitness, or more about a new kind of cult and signaling mechanism?
     </P>    
 
     <P>
-    It's a good question to ask what's the signaling value of using ClassPass? I think it signals that you care about fitness. "I'm going to body-core-burner at 11am Sunday. It's 
-    though ClassPass". This signals you are into fitness. To the average person it sounds better and more interesting than if you just said "I'll go to my gym"" - even though going to the gym by yourself
+    What's the signaling value of using ClassPass or doing cross-fit? I think it signals that you care about fitness. "I'm going to body-core-burner at 11am Sunday. It's 
+    though ClassPass". This signals you are into fitness. To the average person it sounds better and more interesting than if you just said "I'll go to my gym" - even though going to the gym by yourself
     could easily be a better workout.
     </P>
+
+    <P>
+    (Note: I think ClassPass is a good thing for the world.)
+    </P>    
     <style jsx>{`
         a {
             cursor: pointer

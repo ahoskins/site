@@ -13,12 +13,12 @@ export default () => (
           {
             name: "Sapiens",
             link: "https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095",
-            summary: "history of how our species progressed"
+            summary: "history of my species"
           },
           {
             name: "Waking Up",
             link: "https://www.samharris.org/podcast",
-            summary: "many-topic podcast"
+            summary: "from meditation to foreign policy"
           },
           {
             name: "Melting Asphalt",
@@ -43,17 +43,42 @@ export default () => (
           {
             name: "Conversations with Tyler",
             link: "https://www.mercatus.org/commentary/conversations-tyler",
-            summary: "economics/society from many angles"
+            summary: "economics from many angles"
           },
           {
             name: "Happy City",
             link: "https://www.amazon.com/Happy-City-Transforming-Through-Design-ebook/dp/B009LRWHPY",
-            summary: "how we build our cities/countries matters"
+            summary: "how we build our cities matters"
           },
           {
             name: "Surely You're Joking",
             link: "https://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041",
-            summary: "fascinating person and life"
+            summary: "fascinating person and life, lots of good stories"
+          },
+          {
+            name: "Come Back Frayed",
+            link: "https://www.amazon.com/Come-Back-Frayed-Colin-Wright-ebook/dp/B018FRWJSK",
+            summary: "travel as a way to expand perspective"
+          },
+          {
+            name: "Antifragile",
+            link: "https://www.amazon.com/dp/B0083DJWGO/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1",
+            summary: "better understand a world we can't understand"
+          },
+          {
+            name: "Sex at Dawn",
+            link: "https://www.amazon.com/dp/B007679QTG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1",
+            summary: "lots of interesting history and ideas around a controversial topic"
+          },
+          {
+            name: "The Elephant in the Brain",
+            link: "https://www.amazon.com/Elephant-Brain-Hidden-Motives-Everyday/dp/0190495995",
+            summary: "deception to ourselves and others, layered complex motives"
+          },
+          {
+            name: "Dan Wang",
+            link: "https://danwang.co/californian-dreams/",
+            summary: "thoughtful writing, technology and culture"
           },
         ]
         .map(({name, link, summary}) => (
