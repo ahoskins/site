@@ -26,7 +26,7 @@ export default () => (
               <li>Interested in transportation and city infrastructure</li>
               <li>Learning approach is, "throw me into the deep end, and I'll improve over time"</li>              
               <li>Love travel, but bad at learning new language and remembering names or details</li>          
-              <li>It's important to get outside in the sun</li>  
+              <li>If feeling tired or unmotivated, get outside in the sun</li>  
               <li>Aim to do some kind of dedicated physical exercise once a day</li>      
               <li>Cheap street food (where cooking can be seen and smelled) is often the best food</li>  
               <li>A small portion of people do most of the original thinking for society, others follow</li>       
