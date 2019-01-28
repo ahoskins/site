@@ -8,8 +8,8 @@ import OL, { LI as OLI } from '../../components/post/numbers-list'
 
 export default () => (
   <Post>
-    <Head><title>The Uncomfotable Truth of Salary</title></Head>
-    <Title>The Uncomfotable Truth of Salary</Title>
+    <Head><title>Salaries</title></Head>
+    <Title>Salaries</Title>
     <Meta date="August 11, 2018" />  
 
     <P>

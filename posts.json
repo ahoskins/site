@@ -46,14 +46,19 @@
       "title": "Travel"
     },
     {
-      "id": "the-uncomfortable-truth-of-salary",
+      "id": "salaries",
       "date": "August 11, 2018",
-      "title": "The Uncomfortable Truth of Salary"
+      "title": "Salaries"
     },
     {
-      "id": "the-desire",
+      "id": "dreams-and-dream-pop",
       "date": "August 16, 2018",
-      "title": "The Desire"
+      "title": "Dreams and Dream Pop"
+    },
+    {
+      "id": "incentives-for-a-better-world",
+      "date": "August 16, 2018",
+      "title": "Incentives for a Better World"
     }
   ]
 }

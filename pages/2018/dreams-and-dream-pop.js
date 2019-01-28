@@ -8,8 +8,8 @@ import OL, { LI as OLI } from '../../components/post/numbers-list'
 
 export default () => (
   <Post>
-    <Head><title>The Desire</title></Head>
-    <Title>The Desire</Title>
+    <Head><title>Dreams and Dream Pop</title></Head>
+    <Title>Dreams and Dream Pop</Title>
     <Meta date="August 11, 2018" />  
 
     <P>
@@ -59,9 +59,9 @@ export default () => (
     </P>
 
     <P>
-    So this post is really about dreams, and the desire to fulfill them. Letting them start fuzzy and extremely daunting. Allowing yourself
-    to feel like an outsider to this dream reality. And using open-time to work hard. Then, waking up one day to realize the dreams no longer dreams,
-    but your reality.
+    So this post is really about dreams, and the desire to fulfill them. Letting them start fuzzy and daunting. Allowing yourself
+    to feel like an outsider to this dream reality. And using open time to work hard towards them. Then, waking up one day to realize the dreams are no longer dreams,
+    but your reality. Then back to step one.
     </P>
 
     <style jsx>{`
