@@ -11,11 +11,6 @@ export default () => (
       {
         [
           {
-            name: "Sapiens",
-            link: "https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095",
-            summary: "history of my species"
-          },
-          {
             name: "Waking Up",
             link: "https://www.samharris.org/podcast",
             summary: "from meditation to foreign policy"
@@ -79,6 +74,21 @@ export default () => (
             name: "Dan Wang",
             link: "https://danwang.co/californian-dreams/",
             summary: "thoughtful writing, technology and culture"
+          },
+          {
+            name: "Black Swan",
+            link: "https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X",
+            summary: "the whole incerto series is worth the read"
+          },
+          {
+            name: "Slate Star Codex",
+            link: "https://slatestarcodex.com/",
+            summary: "love his style of intellectual openness"
+          },
+          {
+            name: "Stratechery",
+            link: "https://stratechery.com/",
+            summary: "the only tech analysis I regularly read"
           },
         ]
         .map(({name, link, summary}) => (

@@ -16,7 +16,7 @@ export default () => (
             <b>Summary:</b> I'm a software engineer in the day (sometimes at night). I'm interested in many ideas and experiences. I like <a className="no-margin" target="_blank" href="https://www.instagram.com/andrew.hoskins">exploring</a>, <Link href="/favorites"><a className="no-margin">learning</a></Link>, and <a className="no-margin" target="_blank" href="https://www.github.com/ahoskins">making things</a>. I live in San Francisco, but was raised in western Canada.
           </div>
           <div className="section">
-            <b>Work stuff:</b> I work at Affirm. This website is not my Linkedin, so I'll direct to there for more details on professional experience (see link below).
+            <b>Work stuff:</b> I work at Affirm.
           </div>
           <div className="section">
             <b>Other stuff:</b>

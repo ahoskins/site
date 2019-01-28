@@ -66,7 +66,7 @@ export default () => (
          the better (let's go for some more privatized mass-transport like trains and other Uber-like inventions), more new models of bike ownership (like Vanmoof) the better.
         </OLI>
     </OL>
-
+        
 
     <style jsx>{`
         a {
