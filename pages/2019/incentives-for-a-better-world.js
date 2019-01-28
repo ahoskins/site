@@ -19,7 +19,7 @@ export default () => (
 
     <P>
     For example: in the choice of driving your car vs riding your bike, a policy that subsidizes parking will sway you towards driving. (And much to by dismay, making cities in
-    North America do this. They don't in Tokyo apparently). Free parking does not mean that everyone will choose driving every time over biking, but it does play it's role
+    North America do this. They don't in <a target="_blank" href="https://medium.com/land-buildings-identity-and-values/tokyo-does-not-subsidise-its-transport-system-98f064f097b3">Tokyo!</a>). Free parking does not mean that everyone will choose driving every time over biking, but it does play it's role
     to incentivize driving more.
     </P>
 
@@ -35,7 +35,7 @@ export default () => (
     <P>
     There are recent ventures like Lambda school who have recognized this perverse misalignment of incentive. Lambda school makes the incentive for future earnings of students very explicit in
     it's business model. They charge no tuition up-front, and instead capture percent of future earnings for the next few years. To me, this is clearly better. This incentizes Lambda school
-    to be actually true to their word of setting students up for successful careers. For more affirmation that Lamda school has got it right (which I strongly believe they do), follow Austin Alred on Twitter.
+    to be actually true to their word of setting students up for successful careers. For more affirmation that Lamda school has got it right (which I strongly believe they do), follow <a target="_blank" href="https://twitter.com/AustenAllred">Austin on Twitter.</a>
     He regularly reminds you of the deep sickness within traditional universities.    
     </P>
 
@@ -66,7 +66,7 @@ export default () => (
          the better (let's go for some more privatized mass-transport like trains and other Uber-like inventions), more new models of bike ownership (like Vanmoof) the better.
         </OLI>
     </OL>
-        
+
 
     <style jsx>{`
         a {
