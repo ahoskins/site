@@ -6,7 +6,7 @@ export default ({ children }) => (
     <div className="logo">
       <nav>
         <Link href="/"><a>ahoskins.xyz</a></Link>
-        <a className="icon" target="_blank" href="mailto:andrew@andrewhoskins.ca">(contact)</a>
+        <a className="icon" target="_blank" href="mailto:arh.hoskins@gmail.com">(contact)</a>
       </nav>
     </div>
 

@@ -13,7 +13,7 @@ export default () => (
         <h2>Andrew Hoskins</h2>
         <div>
           <div className="section">
-            <b>Summary:</b> I'm a software engineer in the day (sometimes at night). I'm interested in many ideas and experiences. I like <a className="no-margin" target="_blank" href="https://www.instagram.com/andrew.hoskins">exploring</a>, <Link href="/favorites"><a className="no-margin">learning</a></Link>, and <a className="no-margin" target="_blank" href="https://www.github.com/ahoskins">making things</a>. I live in San Francisco, but was raised in western Canada.
+            <b>Summary:</b> I'm a software engineer in the day (sometimes at night). I'm interested in many ideas and experiences. I like <a className="no-margin" target="_blank" href="https://www.instagram.com/andrew.hoskins">exploring</a>, <Link href="/favorites"><a className="no-margin">learning</a></Link>, and <a className="no-margin" target="_blank" href="https://www.github.com/ahoskins">making things</a>. I live in San Francisco right now via Canada.
           </div>
           <div className="section">
             <b>Work stuff:</b> I work at Affirm.
@@ -23,14 +23,14 @@ export default () => (
             <ul>
               <li>Fundamentally an optimist, even though it doesn't always appear that way</li>   
               <li>Wandering the streets of a new city is a great way to spend a day</li>           
-              <li>City design is deeply important in affecting how people live daily</li>
+              <li>City design is deeply important in affecting how you live daily</li>
               <li>Learning approach is, "throw me into the deep end, and I'll improve over time"</li>              
               <li>Love travel, but bad at learning new language and remembering names or details</li>          
               <li>If feeling tired / unmotivated, getting outside in the sun always helps</li>      
               <li>Cheap street food (where cooking can be seen and smelled) is often the best food</li>  
               <li>A small portion of people do most of the original thinking for society, others follow</li>       
               <li>People should be more aware of cognitive biases</li> 
-              <li>We should be more keenly aware of incentive structures</li>             
+              <li>We should be more aware of incentive structures</li>             
               <li>Gratitude is underrated, even though it's cliche</li>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
             </ul>
           </div>
