@@ -9,7 +9,7 @@ export default () => (
       <title>Writing</title>
     </Head>
     <div className="posts">
-      {
+      {/* {
         posts.length > 0 ? 
           posts.map(({ id, date, title }) => (
             <Post 
@@ -21,7 +21,7 @@ export default () => (
           ))
           :
           (<p>Coming soon.</p>)
-      }
+      } */}
     </div>
   </Page>
 )
