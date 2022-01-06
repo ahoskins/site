@@ -13,13 +13,13 @@ export default () => (
         <h2>Andrew Hoskins</h2>
         <div>
           <div className="section">
-          Adventuring in physical and digital space. Passionate about being happy. I'm currently a software engineer at Affirm where I've worked on billing systems, messaging, and growth. I live just north of SF in beautiful Marin, California.
+          Adventuring in physical and digital space. Passionate about being happy. I'm currently a software engineer at Affirm where I've worked on billing systems, messaging, and growth. I live just north of SF in beautiful Marin.
           </div>
         </div>
         <br />
         <nav>
-          <a target="_blank" href="https://twitter.com/_ahoskins">Twitter</a>
-          <a target="_blank" href="https://www.linkedin.com/in/andrew-hoskins-05825991/">LinkedIn</a>
+          <a target="_blank" href="https://twitter.com/_ahoskins">twitter</a>
+          <a target="_blank" href="https://www.linkedin.com/in/andrew-hoskins-eng/">linkedin</a>
         </nav>
       </div>
     </div>
