@@ -13,7 +13,7 @@ export default () => (
         <h2>Andrew Hoskins</h2>
         <div>
           <div className="section">
-          Adventuring in physical and digital space. Passionate about being happy. I'm currently a software engineer at Affirm where I've worked on billing systems, messaging, and growth.
+          Adventuring in physical and digital space. Passionate about being happy. I'm currently a software engineer at Affirm where I've worked on billing systems, messaging, and growth. I live just north of SF in beautiful Marin, California.
           </div>
         </div>
         <br />
