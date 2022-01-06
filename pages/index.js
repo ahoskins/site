@@ -13,7 +13,7 @@ export default () => (
         <h2>Andrew Hoskins</h2>
         <div>
           <div className="section">
-            <b>Summary:</b> Hello. I'm a software engineer in the day (sometimes at night). I'm interested in many ideas and experiences. I like <a className="no-margin" target="_blank" href="https://www.instagram.com/andrew.hoskins">exploring</a>, <Link href="/favorites"><a className="no-margin">learning</a></Link>, and <a className="no-margin" target="_blank" href="https://www.github.com/ahoskins">making things</a>. I live in San Francisco right now via Canada.
+            <b>Summary:</b> Hello... I'm a software engineer in the day (sometimes at night). I'm interested in many ideas and experiences. I like <a className="no-margin" target="_blank" href="https://www.instagram.com/andrew.hoskins">exploring</a>, <Link href="/favorites"><a className="no-margin">learning</a></Link>, and <a className="no-margin" target="_blank" href="https://www.github.com/ahoskins">making things</a>. I live in San Francisco right now via Canada.
           </div>
           <div className="section">
             <b>Work stuff:</b> I work at Affirm.
